@@ -14,6 +14,7 @@ The objective I am targeting at is to shorten the typical holding period for val
 -	Graph Nodes - StockNames | Sectors | Companies in Value Chains*, all will be connected through a network-graph structure based their relationship status.
 
 **Objective**
+
 Merge the “_slow-moving fundamentals_” with “_faster-moving market and sentiment variables_” to generate **signals**, which can then be evaluated over different holding periods 
   
   The period needs to be evaluated 
@@ -24,6 +25,6 @@ Merge the “_slow-moving fundamentals_” with “_faster-moving market and sen
   I plan to compare the results with other ML models using Random Forests/ XGBOOST/ LightGBM.
 
 **Prominent Data Sources**
-National Stock Exchange India - bulk_deals data
-LSEG-Refinitive-Eikon         - Company Fundamentals and Technical Price (OHLC) Data
-yfinance                      - Pricing Data (validation)
+#####  National Stock Exchange India - bulk_deals data
+#####  LSEG-Refinitive-Eikon         - Company Fundamentals and Technical Price (OHLC) Data
+#####  yfinance                      - Pricing Data (validation)
